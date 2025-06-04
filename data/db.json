@@ -1,0 +1,23 @@
+{
+    "noticias" :[
+                {
+                    "imagem": "Tecnologia.webp",
+            "titulo": "Tecnologia avança com IA Generativa 2",
+            "texto": "As pesquisas e avanços no campo da inteligência artificial generativa têm impulsionado diversos setores, incluindo saúde, educação e entretenimento. Essa tecnologia permite a criação de conteúdos originais a partir de dados existentes, o que tem revolucionado processos criativos e industriais em todo o mundo.\n\nNo setor de saúde, por exemplo, a IA generativa está sendo usada para prever diagnósticos e criar modelos personalizados de tratamentos, oferecendo novas possibilidades para profissionais e pacientes. Em entretenimento, vemos produções audiovisuais, músicas e até roteiros desenvolvidos com o auxílio dessas tecnologias, ampliando horizontes e proporcionando experiências únicas ao público.\n\nPorém, junto a essas oportunidades, surgem desafios importantes relacionados à ética e à privacidade dos dados. A sociedade precisa discutir como equilibrar o uso responsável da IA generativa com a proteção dos direitos das pessoas. Especialistas apontam que políticas de regulamentação, alinhadas ao desenvolvimento tecnológico, serão essenciais para garantir que esses avanços sejam aplicados de forma justa e sustentável.\n\nNo futuro, espera-se que a inteligência artificial generativa se torne ainda mais presente em nosso cotidiano, exigindo que profissionais de diversas áreas estejam preparados para lidar com essa transformação. O papel da educação, da pesquisa e das políticas públicas será fundamental para garantir que essa evolução tecnológica seja benéfica para toda a sociedade.",
+            "id": "1"
+            
+        },
+        {
+            "id": "2",
+            "titulo": "Mercado financeiro fecha em alta",
+            "texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global.",
+            "imagem": "mercadoFinanceiro.webp"
+        },
+        {
+            "id": "3",
+            "titulo": "Cientistas descobrem exoplaneta habitável",
+            "texto": "Astrônomos identificam planeta fora do sistema solar com condições favoráveis para abrigar vida, reforçando buscas por sinais extraterrestres.",
+            "imagem": "exoplaneta.webp"
+        }
+    ]
+}
