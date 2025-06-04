@@ -105,13 +105,3 @@ Este projeto é um **portal institucional desenvolvido em React**, que simula o 
 
 ![image](https://github.com/user-attachments/assets/2d7cb924-cb87-48ed-bf43-78d352d9e8de)
 ![image](https://github.com/user-attachments/assets/11b8f365-5df5-4b05-b4b9-29bd29dcd37e)
-
-
-
----
-
-## 💻 Como rodar o projeto localmente
-
-### 1️⃣ Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
